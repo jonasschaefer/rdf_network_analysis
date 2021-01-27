@@ -1,0 +1,1 @@
+szenario1_1.csv - table containing average KPI's for all countries in dataset
